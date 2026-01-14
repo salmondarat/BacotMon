@@ -1,0 +1,5 @@
+{
+  "name": "BacotMon - Smart Translator",
+  "description": "A powerful, minimalist AI translator with document support, grammar polishing, and tone adjustment using Gemini 3 using Bacotan Salmon as Generation.",
+  "requestFramePermissions": []
+}
